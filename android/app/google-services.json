@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23210500294",
+    "project_id": "fluttertas8k",
+    "storage_bucket": "fluttertas8k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23210500294:android:9806e254354b03ff6bf7c7",
+        "android_client_info": {
+          "package_name": "com.example.fluttertask8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23210500294-tlvof3nhviekt82m2sl9t80kv02vr1a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPkIIVRiA9ZALKdHa59WoPEKpl-oQmHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23210500294-tlvof3nhviekt82m2sl9t80kv02vr1a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
